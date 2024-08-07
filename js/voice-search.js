@@ -1,3 +1,4 @@
+// prueba
 
 const voiceSearch = document.querySelector(".voice-search");
 let microAceptado = false;
